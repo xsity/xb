@@ -4,9 +4,9 @@
 
 ## NOTE
 
-Shadowban.eu Frontend Forked. For [hmpf.club/shadowban](https://hmpf.club/shadowban) and [hisubway.online/shadowban](https://hisubway.online/shadowban).
+Shadowban.eu Frontend Forked. For [xsity.org/shadowban](https://xsity.org/shadowban) and [xsity.online/shadowban](https://xsity.online/shadowban).
 
-Works with [Steve-0628/shadowban-backend](https://github.com/Steve-0628/shadowban-backend). Check it out too!
+Works with [xsity/shadowban-backend](https://github.com/xsity/shadowban-backend). Check it out too!
 
 Frontend (former TwitterShadowBanV2; history preserved):  
 [shadowban-eu/shadowban-eu-frontend](https://github.com/shadowban-eu/shadowban-eu-frontend.git)
